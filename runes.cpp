@@ -1,4 +1,4 @@
-// 🐙 THE BLADE OF YOG-SOTHOTH - C++ Edition
+// 🐙 ELDRITCH RUNES - C++ Edition
 
 #include <iostream>
 #include <string>
