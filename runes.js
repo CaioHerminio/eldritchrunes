@@ -1,4 +1,4 @@
-// 🐙 THE BLADE OF YOG-SOTHOTH - JavaScript edition
+// 🐙 ELDRITCH RUNES - JavaScript edition
 
 // Eldritch runes
 const eldritchRunes = ["yogth", "lachn", "ghat"];
