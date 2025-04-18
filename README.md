@@ -9,21 +9,21 @@
 <p>What if cosmic horror could be used to teach error handling in programming? <strong>Eldritch Runes</strong> is a terminal-based project inspired by Lovecraftian mythos. It plunges the user into a nightmare dimension where only correct incantations can break the curse.</p>
 
 <h3>Task</h3>
-<p>The goal was to design a small “pantheon” of spirits using a class system, each with unique attributes like name, power, immortality, and a poetic description. These spirits are defined as instances of custom classes and printed with styled output to give each one character and personality. This was my introduction to classes, constructors, and encapsulation.</p>
+<p>The challenge was to implement a loop where the user attempts to dispel an eldritch curse by inputting the correct combination of alien runes. The project focuses on <strong>practicing try/catch blocks, throwing exceptions</strong>, and managing logical errors with meaningful feedback. The magical failure of a spell becomes the technical failure of invalid input—a poetic way to frame exception handling.</p>
 
 <h3>Action</h3>
-<p>I created a class structure for magical spirits and implemented an array of them in code, adding expressive formatting to display their profiles. Using <strong>constructors</strong> and <strong>methods</strong>, I defined behavior like the <code>info()</code> method, which reveals a formatted summary of each spirit’s nature. The output uses emoji and spacing to enhance readability and give a sense of mysticism.</p>
+<p>I designed a ritual mechanic where players input a string of runes. A function compares it to the true name of power. If the spell is incorrect, we handle the error.</p>
 
 <h3>Result</h3>
-<p>The result is a creative code grimoire of classes and object instancing. <strong>Succconomicon</strong> proves that code can be both functional and artistic, and that even an OOP exercise can become a digital fantasy experience.</p>
+<p>The result is a suspenseful and interactive mini-game that blends programming logic with horror storytelling. <strong>Eldritch Runes</strong> turns basic error handling into a dramatic experience, showing how even fundamental concepts can be wrapped in thematic, memorable ways.</p>
 
 <h2>Multi-Language Learning Philosophy</h2>
 <p>Just like the first project, this one is being developed in Python, JavaScript, and C++. I’m studying these three languages simultaneously to avoid becoming too attached to the quirks of just one. This method helps me grasp the core logic of programming — which is universal across languages — rather than memorizing syntax. By rewriting the same project in multiple languages, I reinforce my understanding of structures, variables, functions, and flow — while also appreciating the expressive power of each language.</p>
 
-<h2>Project Scope: Succonomicon</h2>
+<h2>Project Scope: Eldritch Runes</h2>
 <p>Core concepts covered (in addition to concepts from previous projects):</p>
 <ul>
-  <li>OOP</li>
+  <li>Errors and exceptions</li>
 </ul>
 
 <h1>About the Code Fool's Journey</h1>
