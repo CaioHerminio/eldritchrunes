@@ -1,4 +1,4 @@
-# 🐙 THE BLADE OF YOG-SOTHOTH - Python edition
+# 🐙 ELDRITCH RUNES - Python edition
 
 import time
 
